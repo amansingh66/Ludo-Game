@@ -3,6 +3,7 @@ var step = 49.5;
 var currcolor = "";
 var NumOfPaw = "";
 var num = 0;
+
 var clicked = false;
 var currpawn = "";
 var allcolor = ["red", "blue", "green", "yellow"];
@@ -296,3 +297,4 @@ function randomMove(Color, paw) {
         }
     }
 }
+
