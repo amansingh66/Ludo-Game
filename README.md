@@ -1,6 +1,6 @@
 # Online-Ludo
 
-4 Play online ludo game on JS based 
+4 Player online ludo game on JS
 
 # Demo
 ![](./Images/512x512bb.jpg)
